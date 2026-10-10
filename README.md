@@ -30,7 +30,8 @@ EduBridge AI aims to make learning more personalized, help students focus on wea
 ## 6. Team
 
 **Team Name:** AAAlpha
-**Team Lead:** Prashanth R
+
+**Team Lead: Prashanth R;**
 
 **Team member: Mahesh&#x20;**
 
